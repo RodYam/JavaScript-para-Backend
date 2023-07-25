@@ -1,4 +1,4 @@
-//var
+//var =======================
 
 /*
 var altura = 5;
@@ -10,7 +10,7 @@ var area;
 console.log(area);
 */
 
-//let
+//let ===========================
 /*
 let forma = "Triangulo"
 let altura = 5;
@@ -26,7 +26,7 @@ if(forma === "Retangulo") {
 console.log(area);
 */
 
-//Const
+//Const ==========================
 
 const forma = "Triangulo";
 const altura = 5;
